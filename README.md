@@ -14,24 +14,24 @@ Ideas de caracteristicas para explicar o Churn de Assinaturas:
  
 - [x] Recencia
 
-- [ ] Performance durante o jogo
-  - [ ] Winrate
-  - [ ] HSrate
-  - [ ] ADR
-  - [ ] KDR
-  - [ ] etc
-  - [ ] Level
+- [x] Performance durante o jogo
+  - [x] Winrate
+  - [x] HSrate
+  - [x] ADR
+  - [x] KDR
+  - [x] etc
+  - [x] Level
 
-- [ ] Medalhas na lojinha 
+- [x] Medalhas na lojinha 
 
-- [ ] Histórico de assinaturas
-  - [ ] Quantidade
-  - [ ] Tipo de planos
-  - [ ] Plano Atual
-  - [ ] Tempo de plano
+  - [x] Histórico de assinaturas
+  - [x] Quantidade
+  - [x] Tipo de planos
+  - [x] Plano Atual
+  - [x] Tempo de plano
 
-- [ ] Idade
+- [x] Idade
 
-- [ ] Tempo de Conta
+- [x] Tempo de Conta
 
-- [ ] Amigos
+- [x] Amigos
