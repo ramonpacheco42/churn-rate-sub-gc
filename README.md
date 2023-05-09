@@ -7,12 +7,12 @@ Aqui vamos defunir qual é a problemática que vamos atuar. Dando uma boa introd
 
 Ideas de caracteristicas para explicar o Churn de Assinaturas:
 
-- [ ] Frequência
-  - [ ] Quantidade de dias
-  - [ ] Quantidade de partidas
+- [X] Frequência
+  - [X] Quantidade de dias
+  - [X] Quantidade de partidas
   - [ ] Dia da semana que joga
  
-- [ ] Recencia
+- [x] Recencia
 
 - [ ] Performance durante o jogo
   - [ ] Winrate

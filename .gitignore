@@ -1,0 +1,4 @@
+.env
+.vscode/
+churn_gc/
+.__pycache__/
